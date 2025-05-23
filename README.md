@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **ShaneMander/ShaneMander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Shane -- a 3rd year Computer Science student at UBC passionate about software development and interested in machine learning. 
+
+Professionally, I'm currently working at Incognito Software Systems as a QA Software Engineer where I primarily lead the planning and execution of test plans for software releases and collaborate with developers and product managers to ensure the highest quality of our software products before they reach customers.
+
+⭐️ Outside of work, I am currently working in a team of 7 on _Spawn_, a passion project of mine, which is a social-planning mobile app that aims to make _spontaneity easy_--something that can be difficult in the life of a busy student. I've primarily worked on the backend side (Java/Spring Boot) but have recently shifted over to the iOS development as well where I am learning to use Swift and SwiftUI to implement vibrant UI screens. Curious about Spawn? Take a look at the repos or the links on my profile for more!
